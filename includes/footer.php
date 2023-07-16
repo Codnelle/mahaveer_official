@@ -22,7 +22,7 @@
             <h4 style="font-size: 2em; font-weight: 1000;">Contact Us </h4><br>
            <p style="font-weight: 1000; font-size: 1.5em;">Mahaveer International School</p>
            <p><b>Affiliation Number:</b> 2131796</p><br><br>
-           <p>Phone Number: 1234567891</p>
+           <p>Phone Number: 9627966630</p>
            <p>Email: school@mis.com</p><br>
            <p>Like/Follow us on social media</p><br>
            <div class="social-links d-none d-md-flex align-items-center">

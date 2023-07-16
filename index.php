@@ -50,7 +50,7 @@
   <div class="marquee-info">
    <marquee style="scroll-behavior: smooth; color: black;" class="jkl" width="100%" direction="left">
     <div class="marquee1">
-       <a href="" target="_blank"> Mahaveer International School Mahaveer International School Mahaveer International School Mahaveer International School    </a>&nbsp;&nbsp; &nbsp;&nbsp;
+       <a href="" target="_blank">School reopens on 17th July 2023.   </a>&nbsp;&nbsp; &nbsp;&nbsp;
 
 </div>
     </marquee> 
@@ -68,19 +68,52 @@
       <div class="carousel-inner" role="listbox">
 
         <!-- Slide 1 -->
-        <div class="carousel-item active" style="background-image: url(./assets/img/banner-image.png)">
+        <div class="carousel-item active" style="background-image: url(./assets/img/banner-image.png);  ">
     
         </div>
 
         <!-- Slide 2 -->
-        <div class="carousel-item" style="background-image: url(./assets/img/carousl-med.png); transform: scale(1.3);">
+        <div class="carousel-item" style="background-image: url(./assets/img/car-01.JPG); background-position: 50% 50%;  ">
        
         </div>
 
         <!-- Slide 3 -->
-        <div class="carousel-item" style="background-image: url(./assets/img/Screenshot\ 2023-05-08\ at\ 2.32.37\ PM.png); transform: scale(1.3);">
+        <div class="carousel-item" style="background-image: url(./assets/img/car-02.JPG);  background-position: 50% 50%; ">
 
       </div>
+
+      <!-- Slide 4 -->
+      <div class="carousel-item" style="background-image: url(./assets/img/car-03.JPG);  background-position: 50% 50%; ">
+
+</div>
+
+<!-- Slide 5 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-04.JPG);  background-position: 50% 50%; ">
+
+</div>
+
+<!-- Slide 6 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-05.JPG);  background-position: 50% 50%; ">
+
+</div>
+<!-- Slide 7 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-06.JPG);  background-position: 50% 50%; ">
+
+</div>
+<!-- Slide 8 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-07.JPG);  background-position: 50% 50%; ">
+
+</div>
+<!-- Slide 9 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-08.JPG);  background-position: 50% 50%; ">
+
+</div>
+<!-- Slide 10 -->
+<div class="carousel-item" style="background-image: url(./assets/img/car-09.JPG);  background-position: 50% 50%; ">
+
+</div>
+
+      
 
       <a class="carousel-control-prev" href="#heroCarousel" role="button" data-bs-slide="prev">
         <span class="carousel-control-prev-icon bi bi-chevron-left" aria-hidden="true"></span>
@@ -154,7 +187,7 @@
                 <br><br><br>
     
                 <div style="display: flex;">
-                  <img style="width: 50px; height: 50px; transform: scale(1.3);" src="./assets/img/logo-mis-icon.png"/>
+                  <img style="width: 50px; height: 50px; transform: scale(1.3);" src="./assets/img/ncert-logo.png"/>
                   <p style=" padding-left: 20px;"><i>NCERT curriculum</i></p>
                 </div>
                 <br><br><br>
@@ -180,7 +213,7 @@
                     <label style="color: black; font-weight: 1000;" for="tab2-2">Events</label>
                     <input id="tab2-2" name="tabs-two" type="radio">
                     <div>
-                      <p>Welcome to our Events section, where we invite you to join us in celebrating the vibrant spirit of our school community. Here, you'll find a curated lineup of engaging and memorable events that offer something for everyone.</p>
+                      <p>Investiture Ceremony - 22nd July</p>
                     </div>
                   </div>
                 </div>
@@ -257,8 +290,8 @@
       <div class="panel bottom">
           <div class="content">
               <div class="description">
-                  <h1><b>Traditional methods of Education has some limitations in terms of delivering content</b>Loss of individualization in a large group of students. </h1>
-                  <p></p>
+                  <h1  style="font-size: 2em" ><b>Traditional methods of Education </b> </h1>
+                  <p>has some limitations in terms of delivering content Loss of individualization in a large group of students.</p>
               </div>
 
               <img src="./assets/img/4.png" alt="Original">
@@ -268,7 +301,7 @@
       <div class="panel top">
           <div class="content">
               <div class="description">
-                  <h1><b>We Believe in Digital Education</b></h1>
+                  <h1 style="font-size: 2em" ><b>We Believe in Digital Education</b></h1><br>
                   <p>We incorporate Digital Smartboards for students At Mahaveer International School for interactive learning</p>
               </div>
 
@@ -358,11 +391,11 @@
               <input type="radio" name="position" />
               <input type="radio" name="position" />
               <div id="carousel">
-                <div style="background-image: url(./assets/img/act-1.jpg); background-size: contain;" class="item"></div>
-                <div class="item"></div>
-                <div class="item"></div>
-                <div class="item"></div>
-                <div class="item"></div>
+                <div style="background-image: url(./assets/img/activities/a-4.jpg); background-size: cover; background-position: 50% 50%" class="item"></div>
+                <div style="background-image: url(./assets/img/activities/a-01.jpg); background-size: cover;" class="item"></div>
+                <div style="background-image: url(./assets/img/activities/a-3.jpg); background-size: cover;" class="item"></div>
+                <div style="background-image: url(./assets/img/activities/a-2.jpg); background-size: cover;" class="item"></div>
+                <div style="background-image: url(./assets/img/activities/workshopp.png); background-size: cover; background-position: 50% 50%;" class="item"></div>
               </div>
             </div>
           </div>
@@ -378,7 +411,7 @@
         <br><br>
         <div class="row">
           <div class="col-lg-5">
-            <iframe src="https://calendar.google.com/calendar/embed?height=400&wkst=1&bgcolor=%23D50000&ctz=Asia%2FKolkata&title=Mahaveer%20International%20School&showTitle=1&showTabs=0&src=ZW4uaW5kaWFuI2hvbGlkYXlAZ3JvdXAudi5jYWxlbmRhci5nb29nbGUuY29t&color=%230B8043" style="padding: 1em; border:solid 3px white; border-radius: 1em ; box-shadow: 13px 17px 49px 15px rgba(0, 0, 0, 0.183);" width="500" height="300" frameborder="0" scrolling="no"></iframe>
+            <iframe src="https://calendar.google.com/calendar/embed?src=c_nlnkfot2jpanvnpquf4fonepsg%40group.calendar.google.com&ctz=Asia%2FKolkata" style="padding: 1em; border:solid 3px white; border-radius: 1em ; box-shadow: 13px 17px 49px 15px rgba(0, 0, 0, 0.183);" width="500" height="300" frameborder="0" scrolling="no"></iframe>
           </div>
 
           <div style="color: white; margin-top: -17%; text-align: center;" class="col-lg-7 ">
@@ -473,65 +506,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
-    <div class="footer-top">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-lg-3 col-md-6">
-            <div class=" footer-links">
-              <h2 style="font-size: 2em; font-weight: 1000;">Introduction</h1>
-          <br>
-              <ul>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-                <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
-              </ul>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 footer-links">
-            <h4 style="font-size: 2em; font-weight: 1000;">Contact Us </h4><br>
-           <p style="font-weight: 1000; font-size: 1.5em;">Mahaveer International School</p>
-           <p><b>Affiliation Number:</b> 2131796</p><br><br>
-           <p>Phone Number: 1234567891</p>
-           <p>Email: school@mis.com</p><br>
-           <p>Like/Follow us on social media</p><br>
-           <div class="social-links d-none d-md-flex align-items-center">
-           
-            <a href="#" class="twitter"><i class="bi social-links bi-twitter"></i></a>
-            <a href="#" class="facebook"><i class="bi social-links bi-facebook"></i></a>
-            <a href="#" class="instagram"><i class="bi social-links bi-instagram"></i></a>
-            <a href="#" class="linkedin"><i class="bi social-links bi-linkedin"></i></a>
-          </div>
-          </div>
-
-
-          <div class="col-lg-5 col-md-6 footer-newsletter">
-            <h4 style="font-size: 2em; font-weight: 1000;">School Map </h4><br>
-            <iframe style="box-shadow: 13px 17px 49px 15px rgba(0, 0, 0, 0.183);" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3487.5075274266587!2d77.6357456755365!3d29.061143964488025!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390c68ddafafcb47%3A0x85aa6256753820fe!2sMahaveer%20International%20School%20(Best%20CBSE%20School%20in%20Meerut)!5e0!3m2!1sen!2sin!4v1682959182781!5m2!1sen!2sin" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-          </div>
-
-        </div>
-      </div>
-    </div>
-
-    <div class="container">
-      <div class="copyright">
-        &copy; Copyright <strong><span>Mahaveer International School</span></strong>. All Rights Reserved
-      </div>
-      <div class="credits">
-        <!-- All the links in the footer should remain intact. -->
-        <!-- You can delete the links only if you purchased the pro version. -->
-        <!-- Licensing information: https://bootstrapmade.com/license/ -->
-        <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/sailor-free-bootstrap-theme/ -->
-        Designed by <a href="https://bootstrapmade.com/">DigiPod</a>
-      </div>
-    </div>
-  </footer><!-- End Footer -->
+  <?php include "./includes/footer.php"; ?>
 
   
 

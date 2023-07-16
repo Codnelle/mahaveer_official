@@ -43,11 +43,11 @@
     <div  style=" display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;" class="container">
+    flex-direction: column; border-radius: 2em; " class="container">
     <br><br><br>
-        <img style="text-align: center;" src="assets/img/uni3.jpg.webp">
-        <img style="text-align: center;" src="assets/img/uni2.jpg.webp">
-        <img style="text-align: center;" src="assets/img/uni3.jpg-2.webp">
+        <img style="text-align: center; border: 1px solid black; border-radius: 1em;" src="assets/img/uniform-1.png"><br>
+        <img style="text-align: center; border: 1px solid black; border-radius: 1em;" src="assets/img/uniform-02.png"><br>
+        <img style="text-align: center; border: 1px solid black; border-radius: 1em;" src="assets/img/uniform-3.png"><br>
        </div>
   </div>
 
